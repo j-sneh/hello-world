@@ -1,6 +1,6 @@
 # hello-world
 Start
 
-Hello, I am Jonathan and I'm an ameture coder. I mainly learn python.
+Hello, I am Jonathan and I'm an amateur coder. I mainly learn python.
 
 Goodbye
